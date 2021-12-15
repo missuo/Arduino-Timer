@@ -16,6 +16,6 @@ Record my microcontroller practice class assignment
 ![47aafcb0b2080e099573d](https://telegraph.work/file/47aafcb0b2080e099573d.png)
 
 ## Open-Source Code Used
-[https://github.com/gtf35/BLESerial(https://github.com/gtf35/BLESerial)
+[https://github.com/gtf35/BLESerial](https://github.com/gtf35/BLESerial)
 
 Thanks to the above authors.
